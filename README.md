@@ -1,3 +1,3 @@
 # PythonLearning
-My practice on python 
-explore branches
+My practice on python.
+Explore branches
